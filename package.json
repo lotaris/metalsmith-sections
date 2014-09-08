@@ -1,0 +1,20 @@
+{
+  "name": "metalsmith-sections",
+  "version": "1.0.0",
+  "description": "Metalsmith plugin for making pages easily accessible under sections",
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/lotaris/metalsmith-sections",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lotaris/metalsmith-sections"
+  },
+  "bugs": {
+    "url": "https://github.com/lotaris/metalsmith-sections/issues"
+  },
+  "main": "lib/index.js",
+  "license": "MIT",
+  "dependencies": { },
+  "devDependencies": {
+    "metalsmith": "0.x",
+  }
+}
