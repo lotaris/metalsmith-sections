@@ -45,3 +45,8 @@ There is only one option, which is optional:
 
  - `name` defines under which attribute the section tree will be created.
    Default name is `sections`.
+
+
+## License
+
+MIT, see [LICENSE](LICENSE).
